@@ -1,7 +1,7 @@
 :root {
   --border-color-accent-1: 1px solid rgba(var(--accent-color-1),var(--border-brightness));
   /* Common Backgrounds */
-  --opera-gx-bg-1: url(https://media.tenor.com/VGFJWhyYmAoAAAAM/ganon-suavemente.gif);
+  --opera-gx-bg-1: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgASa5F3h4JZKCG9ZanD3JYMIag-FAlQbOFyZ72jtEt-vJJk6ifsHFHdfYr-7WVlU5v-U&usqp=CAU);
 }
 
 .theme-light,
